@@ -1,4 +1,5 @@
-var a = 1;
-module.exports = {
-  a : 1
+function again () {
+  console.log('test')
 }
+
+module.exports = again;
